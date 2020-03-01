@@ -1,7 +1,8 @@
 # android-library-app
-Developing and library application for searching books and renting the books using mobile application
+Developing a library application for searching and renting the books using mobile application.
 
 
-# contributors
+# Contributors
 - Anil Bomma
 - Rethimareddy Polam
+- Deepthi Tejaswani Chokka
